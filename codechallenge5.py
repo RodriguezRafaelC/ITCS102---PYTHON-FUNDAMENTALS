@@ -1,4 +1,4 @@
-can you take a look at this print("Welcome To Manga Reader Recommendations!")
+("Welcome To Manga Reader Recommendations!")
 
 genre = input("What Manga Genre are you Looking For? (action,comedy,romance) : ")
 
