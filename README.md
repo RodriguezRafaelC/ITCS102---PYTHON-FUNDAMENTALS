@@ -20,3 +20,5 @@ This repository contains my activities and code challenges for ITCS102 subject.
 - [Code Challenge 3](codechallenge3.py)
 - [Code Challenge 4](codechallenge4.py)
 - [Code Challenge 5](codechallenge5.py)
+- [Code Challenge 6](codechallenge6.py)
+- [Code Challenge 7](codechallenge7.py)
