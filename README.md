@@ -1,6 +1,6 @@
 # ITCS102 - Python Fundamentals
 
-This repository contains my activities and code challenges for ITCS102 subject.
+This repository contains my activities and code challenges for ITCS102 subject..
 
 # Activities
 - [Activity 1](activity1.py)
