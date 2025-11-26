@@ -1,12 +1,11 @@
+print("You have eaten in a carinderya near school")
 name = input("Enter your name : ")
-balance = 1000
-print("Hello", name, "Your remaining balance is", int(balance) , "how much would you like to pay")
-payment = eval(input("$ : "))
+bill = input("Enter your payment please : ")
+student = input("Are you a student? (yes/no) : ").lower()
 
-if payment <= 1000:
-	balance = balance - payment
-	print(name, "paid", payment)
-	print("payment successful your remaining balance is", balance)
+if student == "yes":
+    discount = bill * 0.2
+    newBill = bill - discount
+    print("Students has a discount of 20%\nYour total payment is",newBill)
 else:
-	payment = payment - balance
-	print("Thank you, here is your change", payment)
+    print("You have no discount.")
